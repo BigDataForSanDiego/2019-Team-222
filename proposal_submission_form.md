@@ -12,7 +12,7 @@
 - ##### `Smart Growth Equity Calculator` http://smartgrowthcalculator.herokuapp.com/index.html#
 - ##### `YOUR DATASETS  HERE`
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `MrQuo`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
